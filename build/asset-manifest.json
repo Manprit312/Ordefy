@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ordefy/static/css/main.0409ad71.css",
+    "main.js": "/Ordefy/static/js/main.5480fc3b.js",
+    "static/js/787.746a7ca0.chunk.js": "/Ordefy/static/js/787.746a7ca0.chunk.js",
+    "index.html": "/Ordefy/index.html",
+    "main.0409ad71.css.map": "/Ordefy/static/css/main.0409ad71.css.map",
+    "main.5480fc3b.js.map": "/Ordefy/static/js/main.5480fc3b.js.map",
+    "787.746a7ca0.chunk.js.map": "/Ordefy/static/js/787.746a7ca0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0409ad71.css",
+    "static/js/main.5480fc3b.js"
+  ]
+}
